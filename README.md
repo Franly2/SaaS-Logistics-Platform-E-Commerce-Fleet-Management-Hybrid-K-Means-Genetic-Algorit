@@ -2,6 +2,8 @@
 
 Sistem informasi terintegrasi berbasis **Software as a Service (SaaS)** yang menggabungkan modul E-commerce (pemesanan) dengan mesin optimasi logistik cerdas. Aplikasi ini memecahkan masalah **Capacitated Vehicle Routing Problem (CVRP)** dengan membagi wilayah pengiriman secara otomatis kepada kurir dan menentukan urutan jalan paling efisien.
 
+## 🗄️ Database Design (Not final)
+https://drive.google.com/file/d/1lSgEp14MUMuscwvUtlJhSgiJsquDYq7O/view?usp=sharing
 
 ## 🏗️ Project Structure
 
