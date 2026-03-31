@@ -24,6 +24,7 @@ CVRP/
             └── analytics/     # Menampilkan data dari tabel Order dan Package untuk dihitung.
             └── sales/         # Khusus menangani proses keranjang, dan pemesanan
             └── vrp/           # Khusus menangani kebutuhan logistik
+            └── cust/          # Khusus Manajemen Pelanggan
 │       ├── prisma/          # Database schema (PostgreSQL) - Multi-tenant structure
 │       └── ...
 └── README.md
