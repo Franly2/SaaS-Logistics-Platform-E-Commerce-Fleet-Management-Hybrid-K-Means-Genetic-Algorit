@@ -76,8 +76,8 @@ Setelah paket terbagi per wilayah, GA bertugas mencari urutan kunjungan (*Permut
 Database dibagi menjadi 3 pilar utama untuk menjaga *Clean Architecture*:
 
 1. **Tenancy Domain:** `Tenant`, `Depot`, `Human`, `Product` (Infrastruktur SaaS).
-2. **Transaction Domain:** `Customer`, `Order`, (Logic Jual-Beli).
-3. **Logistics Domain:** `vrp` (Logic CVRP & Armada).
+2. **Transaction Domain:** `Customer`, `Order`, (Logika pemesanan).
+3. **Logistics Domain:** `vrp` (Logika CVRP & Armada).
 
 ---
 
