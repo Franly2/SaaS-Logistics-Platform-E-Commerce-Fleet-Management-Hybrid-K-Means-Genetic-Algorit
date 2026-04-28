@@ -1,5 +1,4 @@
-# ⚠️ Status Proyek: Dalam Pengembangan (Tertutup)
-Kode sumber aplikasi ini belum dapat dipublikasikan karena masih dalam tahap pengembangan yang bersifat tertutup.
+
 
 # 🚚 PEMBUATAN SISTEM E-COMMERCE DAN LOGISTIK KATERING BERBASIS SAAS MENGGUNAKAN K-MEANS DAN ALGORITMA GENETIKA
 
